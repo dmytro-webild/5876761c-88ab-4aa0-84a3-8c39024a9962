@@ -61,7 +61,7 @@ export default function LandingPage() {
           href: "https://wa.me/212600286128",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-business-woman-sitting-car_1303-22819.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-business-woman-sitting-car_1303-22819.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -122,13 +122,13 @@ export default function LandingPage() {
           id: "c1",
           name: "Executive Renault",
           price: "€120/day",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-yellow-sport-car_181624-25409.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-yellow-sport-car_181624-25409.jpg?_wi=1",
         },
         {
           id: "c2",
           name: "Modern Dacia Luxury",
           price: "€80/day",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-black-car_181624-25346.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-black-car_181624-25346.jpg?_wi=1",
         },
         {
           id: "c3",
@@ -199,7 +199,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-business-woman-sitting-car_1303-22819.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-business-woman-sitting-car_1303-22819.jpg?_wi=2",
           imageAlt: "premium car studio shot black",
         },
         {
@@ -215,7 +215,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-yellow-sport-car_181624-25409.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-yellow-sport-car_181624-25409.jpg?_wi=2",
           imageAlt: "premium car studio shot black",
         },
         {
@@ -231,7 +231,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-black-car_181624-25346.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-exterior-details-modern-black-car_181624-25346.jpg?_wi=2",
           imageAlt: "premium car studio shot black",
         },
       ]}
