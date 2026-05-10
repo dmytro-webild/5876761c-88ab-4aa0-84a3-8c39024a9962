@@ -107,7 +107,7 @@ export default function LandingPage() {
       features={[
         {
           title: "24/7 Support",          description: "Around-the-clock dedicated assistance.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/high-angle-new-car-available-selling_23-2148332890.jpg",            imageAlt: "premium car studio shot black"
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DUzx7lqHnZhvnVJ2wXt7vuRgrT/uploaded-1778414216727-gh09yvi7.png",            imageAlt: "premium car studio shot black"
           },
           items: [
             { icon: Shield, text: "Secure Booking" },
